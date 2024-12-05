@@ -1,0 +1,124 @@
+
+        /* Basic Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #;
+            line-height: 1.6;
+        }
+
+        /* Header Styling */
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 36px;
+        }
+
+        /* Navigation Styling */
+        nav {
+            background-color: #222;
+            padding: 10px 0;
+        }
+
+        nav ul {
+            list-style-type: none;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 8px 16px;
+        }
+
+        nav ul li a:hover {
+            background-color: #555;
+            border-radius: 4px;
+        }
+
+        /* Footer Styling */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+
+
+._________________About_Me_Lorem_ipsum_dolor_sit {
+  font-size: 55px;
+  font-family: "Onyx";
+  color: rgb(241, 232, 232);
+  line-height: 1.2;
+  text-align: left;
+}
+.Rectangle_5 {
+  background-color: rgb(116, 131, 146);
+
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 24px;
+  font-family: "Eras Bold ITC";
+  color: rgb(241, 232, 232);
+  line-height: 1.2;
+  text-align: left;
+
+}
+.Rectangle_4 {
+  background-color: rgb(116, 131, 146);
+}
+.John_Rose_Photograghy_Portfolio {
+  font-size: 90px;
+  font-family: "Baskerville Old Face";
+  color: rgb(241, 232, 232);
+  line-height: 1.2;
+  text-align: left;
+
+}
+.Rectangle_3 {
+  border-width: 0px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(116, 131, 146);
+
+}
+.________________Home__Portfoilio___Resume__Contact {
+  font-size: 24px;
+  font-family: "Eras Bold ITC";
+  color: rgb(241, 232, 232);
+  line-height: 1.2;
+  text-align: left;
+
+}
+.Rectangle_2 {
+  border-width: 10px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  background-color: rgb(116, 131, 146);
+
+}
+.Rectangle_1 {
+  background-color: rgb(68, 74, 73);
+
+}
+

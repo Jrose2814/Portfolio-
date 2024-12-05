@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Rose Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Onyx&family=Baskerville+Old+Face&family=Eras+Bold+ITC&display=swap" rel="stylesheet">
+    <style>
+        Desktop {
+            position: absolute;
+            left: 1303px;
+            top: 0px;
+            width: 1300px;
+            height: 1512px;
+            z-index: 14;
+        }
+
+        _________________About_Me_Lorem_ipsum_dolor_sit {
+            font-size: 55px;
+            font-family: "Onyx", sans-serif;
+            color: rgb(241, 232, 232);
+            line-height: 1.2;
+            text-align: left;
+            position: absolute;
+            left: 34px;
+            top: 948.088px;
+            width: 1197px;
+            height: 196px;
+            z-index: 13;
+        }
+
+        Rectangle_5 {
+            background-color: rgb(116, 131, 146);
+            position: absolute;
+            left: 27px;
+            top: 976px;
+            width: 1246px;
+            height: 382px;
+            z-index: 12;
+        }
+
+        Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+            font-size: 24px;
+            font-family: "Eras Bold ITC", sans-serif;
+            color: rgb(241, 232, 232);
+            line-height: 1.2;
+            text-align: left;
+            position: absolute;
+            left: 23px;
+            top: 261.996px;
+            width: 226px;
+            height: 419px;
+            z-index: 11;
+        }
+
+        Rectangle_4 {
+            background-color: rgb(116, 131, 146);
+            position: absolute;
+            left: 23px;
+            top: 266px;
+            width: 228px;
+            height: 657px;
+            z-index: 10;
+        }
+
+        John_Rose_Photograghy_Portfolio {
+            font-size: 90px;
+            font-family: "Baskerville Old Face", serif;
+            color: rgb(241, 232, 232);
+            line-height: 1.2;
+            text-align: left;
+            position: absolute;
+            left: 83.906px;
+            top: 127.985px;
+            z-index: 9;
+        }
+
+        .Rectangle_3 {
+            border-width: 0px;
+            border-color: rgb(0, 0, 0);
+            border-style: solid;
+            background-color: rgb(116, 131, 146);
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 171px;
+            height: 107px;
+            z-index: 8;
+        }
+
+        ________________Home__Portfoilio___Resume__Contact {
+            font-size: 24px;
+            font-family: "Eras Bold ITC", sans-serif;
+            color: rgb(241, 232, 232);
+            line-height: 1.2;
+            text-align: left;
+            position: absolute;
+            left: 380px;
+            top: 5.196px;
+            width: 528px;
+            height: 22px;
+            z-index: 7;
+        }
+
+        Rectangle_2 {
+            border-width: 10px;
+            border-color: rgb(255, 255, 255);
+            border-style: solid;
+            background-color: rgb(116, 131, 146);
+            position: absolute;
+            left: -10px;
+            top: -6px;
+            width: 1295px;
+            height: 94px;
+            z-index: 6;
+        }
+
+        Rectangle_1 {
+            background-color: rgb(68, 74, 73);
+            position: absolute;
+            left: -91px;
+            top: -99px;
+            width: 1401px;
+            height: 1638px;
+            z-index: 3;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Main Wrapper -->
+    <div class="Rectangle_1">
+        <!-- Rectangle 2: The main top bar -->
+        <div class="Rectangle_2">
+            <!-- Home, Portfolio, Resume, Contact -->
+            <div class="________________Home__Portfoilio___Resume__Contact">
+                Home | Portfolio | Resume | Contact
+            </div>
+        </div>
+
+        <!-- Rectangle 3: Small header box -->
+        <div class="Rectangle_3"></div>
+
+        <!-- John Rose Photography Portfolio -->
+        <div class="John_Rose_Photograghy_Portfolio">
+            John Rose Photography Portfolio
+        </div>
+
+        <!-- Rectangle 4: Sidebar -->
+        <div class="Rectangle_4">
+            <div class="Lorem_ipsum_dolor_sit_amet__consectetur_adipisc">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet auctor erat, at tincidunt justo.
+            </div>
+        </div>
+
+        <!-- Rectangle 5: Main content area -->
+        <div class="Rectangle_5">
+            <div class="_________________About_Me_Lorem_ipsum_dolor_sit">
+                About Me: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet auctor erat.
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+	
+	
